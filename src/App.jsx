@@ -4,6 +4,7 @@ import PrivacyPolicy from "./pages/PrivacyPolicy";
 import AboutUs from "./pages/AboutUs";
 import DonorFaqs from "./pages/DonorFaqs";
 import NonProfitOrgFaqs from "./pages/NonProfitOrgFaqs";
+import ContactUs from "./pages/ContactUs";
 import "./App.css";
 
 function Home() {
